@@ -25,10 +25,11 @@ Fresh Computer Science graduate passionate about transforming data into actionab
    - Enhanced dataset quality leading to 15% increase in model performance
    - Implemented efficient data processing pipelines
 
-2. **Media Monitoring Tool**
-   - Architected a comprehensive media tracking and analysis system
-   - Implemented robust backend features with enhanced security protocols
-   - Achieved 90% user satisfaction rate
+2. **Crowdsourced Travel Itinerary Site**
+   - Developed a collaborative platform for travellers to crowdsource and customize travel itineraries
+   - Designed an intuitive user interface using Figma, focusing on seamless user experience for itinerary creation and sharing
+   - Implemented features for real-time itinerary updates, voting, commenting and recommendations
+   - Optimized design for accessibility and cross-device compatibility to enhance engagement and usability
 
 ### 💼 Current Work
 
