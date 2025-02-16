@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Min Khant Soe Oke</h1>
-<h3 align="center">Data Analyst & Machine Learning Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=minkhantsoeoke&label=Profile%20views&color=0e75b6&style=flat" alt="minkhantsoeoke" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=Data+Analyst;Machine+Learning+Enthusiast;AI+Explorer" alt="Typing SVG" />
+</div>
 
 ### 👨‍💻 About Me
 
