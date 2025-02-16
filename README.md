@@ -42,21 +42,28 @@ Fresh Computer Science graduate passionate about transforming data into actionab
 ### 🛠️ Skills
 
 **Data Science**
-- Machine Learning
-- Data Analysis & Modeling
-- Data Visualization
-- Data Cleaning & Collection
-- Spiking Neural Network
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23FFC107.svg?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Data%20Analysis%20%26%20Modeling-%230072B6.svg?style=flat-square&logo=python&logoColor=white" alt="Data Analysis & Modeling" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-%2361DAFB.svg?style=flat-square&logo=tableau&logoColor=white" alt="Data Visualization" />
+  <img src="https://img.shields.io/badge/Data%20Cleaning%20%26%20Collection-%234CAF50.svg?style=flat-square&logo=google-sheets&logoColor=white" alt="Data Cleaning & Collection" />
+  <img src="https://img.shields.io/badge/Spiking%20Neural%20Network-%23FF5722.svg?style=flat-square&logo=pytorch&logoColor=white" alt="Spiking Neural Network" />
+</p>
 
 **Tools & Technologies**
-- Python (NumPy, Pandas, TensorFlow)
-- SQL (BigQuery)
-- Google Sheets
-- Excel
+<p>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/SQL%20(BigQuery)-%2300648E.svg?style=flat-square&logo=google-cloud&logoColor=white" alt="SQL (BigQuery)" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-%234CAF50.svg?style=flat-square&logo=google-sheets&logoColor=white" alt="Google Sheets" />
+  <img src="https://img.shields.io/badge/Excel-%23217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
+</p>
 
 **Soft Skills**
-- Decision Making
-- Problem Solving
+<p>
+  <img src="https://img.shields.io/badge/Decision%20Making-%23FF9800.svg?style=flat-square" alt="Decision Making" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-%234CAF50.svg?style=flat-square" alt="Problem Solving" />
+</p>
 
 ### 📫 Contact Me
 
