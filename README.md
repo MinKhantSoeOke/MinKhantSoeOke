@@ -11,7 +11,7 @@ Fresh Computer Science graduate passionate about transforming data into actionab
 
 ### 🎓 Education
 
-**AGH University of Science and Technology** (2021 - 2025)
+**AGH University of Science and Technology** (Oct 2021 - Feb 2025)
 - Bachelor of Science in Computer Science
 - Overall GPA: 4.5 / 5.0
 - Engineer Qualification Examination: 5.0 / 5.0
