@@ -23,11 +23,11 @@ Fresh Computer Science graduate passionate about transforming data into actionab
    - Enhanced dataset quality leading to 15% increase in model performance
    - Implemented efficient data processing pipelines
 
-2. **Crowdsourced Travel Itinerary Site**
-   - Developed a collaborative platform for travellers to crowdsource and customize travel itineraries
-   - Designed an intuitive user interface using Figma, focusing on seamless user experience for itinerary creation and sharing
-   - Implemented features for real-time itinerary updates, voting, commenting and recommendations
-   - Optimized design for accessibility and cross-device compatibility to enhance engagement and usability
+2. **Cyberattack Resilience of Autonomous Vehicle Sensor Systems**
+   - Simulated 7 attack vectors (e.g., GPS spoofing, RGB noise) in CARLA to test AV sensor resilience
+   - Achieved 95%+ anomaly detection accuracy with <5% false positives using EfficientAD
+   - Found DVS sensors more resilient in high dynamic range scenarios
+   - Mitigated GPS spoofing fully, but RGB/depth attacks caused 30–45% trajectory drift despite defenses
 
 ### 💼 Current Work
 
