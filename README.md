@@ -39,28 +39,26 @@ I design and orchestrate secure agentic workflows and high-concurrency backend e
 
 ### 🛠️ Skills
 
-**Data Science**
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-%23FFC107.svg?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Data%20Analysis%20%26%20Modeling-%230072B6.svg?style=flat-square&logo=python&logoColor=white" alt="Data Analysis & Modeling" />
-  <img src="https://img.shields.io/badge/Data%20Visualization-%2361DAFB.svg?style=flat-square&logo=tableau&logoColor=white" alt="Data Visualization" />
-  <img src="https://img.shields.io/badge/Data%20Cleaning%20%26%20Collection-%234CAF50.svg?style=flat-square&logo=google-sheets&logoColor=white" alt="Data Cleaning & Collection" />
-  <img src="https://img.shields.io/badge/Spiking%20Neural%20Network-%23FF5722.svg?style=flat-square&logo=pytorch&logoColor=white" alt="Spiking Neural Network" />
+<p><strong>Architecture & Intelligence:</strong>
+  <img src="https://img.shields.io/badge/Agentic%20Workflows%20%28MCP%29-%230B5CAD.svg?style=flat-square" alt="Agentic Workflows (MCP)" />
+  <img src="https://img.shields.io/badge/Hybrid%20RAG-%230B5CAD.svg?style=flat-square" alt="Hybrid RAG" />
+  <img src="https://img.shields.io/badge/FastAPI-%230B5CAD.svg?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%230B5CAD.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-%230B5CAD.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Nginx-%230B5CAD.svg?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/ML%20Modeling%20%28TensorFlow%29-%230B5CAD.svg?style=flat-square&logo=tensorflow&logoColor=white" alt="ML Modeling (TensorFlow)" />
 </p>
 
-**Tools & Technologies**
-<p>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/SQL%20(BigQuery)-%2300648E.svg?style=flat-square&logo=google-cloud&logoColor=white" alt="SQL (BigQuery)" />
-  <img src="https://img.shields.io/badge/Google%20Sheets-%234CAF50.svg?style=flat-square&logo=google-sheets&logoColor=white" alt="Google Sheets" />
-  <img src="https://img.shields.io/badge/Excel-%23217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
+<p><strong>Analytics Engineering:</strong>
+  <img src="https://img.shields.io/badge/Data%20Lifecycle%20Management%20%28NumPy%2FPandas%29-%231D7A85.svg?style=flat-square&logo=pandas&logoColor=white" alt="Data Lifecycle Management (NumPy/Pandas)" />
+  <img src="https://img.shields.io/badge/ML%20Research-%231D7A85.svg?style=flat-square" alt="ML Research" />
+  <img src="https://img.shields.io/badge/BI%20Visualization%20%28Tableau%29-%231D7A85.svg?style=flat-square&logo=tableau&logoColor=white" alt="BI Visualization (Tableau)" />
 </p>
 
-**Soft Skills**
-<p>
-  <img src="https://img.shields.io/badge/Decision%20Making-%23FF9800.svg?style=flat-square" alt="Decision Making" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-%234CAF50.svg?style=flat-square" alt="Problem Solving" />
+<p><strong>Soft Skills:</strong>
+  <img src="https://img.shields.io/badge/Complex%20Problem%20Solving-%233C5A78.svg?style=flat-square" alt="Complex Problem Solving" />
+  <img src="https://img.shields.io/badge/Secure%20System%20Design-%233C5A78.svg?style=flat-square" alt="Secure System Design" />
+  <img src="https://img.shields.io/badge/Cross%2Dfunctional%20Collaboration-%233C5A78.svg?style=flat-square" alt="Cross-functional Collaboration" />
 </p>
 
 ### 📫 Contact Me
