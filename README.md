@@ -73,14 +73,31 @@ I design and orchestrate secure agentic workflows and high-concurrency backend e
 ### 📫 Contact Me
 
 <p align="left">
-<a href="https://linkedin.com/in/minkhantsoeoke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minkhantsoeoke" height="30" width="40" /></a>
-<a href="https://kaggle.com/alexminkhant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alexminkhant" height="30" width="40" /></a>
-<a href="https://github.com/minkhantsoeoke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="minkhantsoeoke" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/minkhantsoeoke" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Min%20Khant%20Soe%20Oke-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://minkhantsoeoke.github.io/Portfolio/#/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
+  </a>
+  <a href="https://github.com/minkhantsoeoke" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-minkhantsoeoke-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-- 📧 Email: alexminkhant007@gmail.com
-- 📱 Phone: +48 572 581 007
-- 📍 Location: Krakow, Poland 🇵🇱
+<table>
+  <tr>
+    <td>📧 <strong>Email</strong></td>
+    <td><a href="mailto:alexminkhant007@gmail.com">alexminkhant007@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>📱 <strong>Phone</strong></td>
+    <td><a href="tel:+48572581007">+48 572 581 007</a></td>
+  </tr>
+  <tr>
+    <td>📍 <strong>Location</strong></td>
+    <td>Krakow, Poland 🇵🇱</td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minkhantsoeoke&show_icons=true&theme=radical" alt="GitHub stats" />
