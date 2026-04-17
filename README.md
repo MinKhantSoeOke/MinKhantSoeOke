@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Min Khant Soe Oke</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=Data+Analyst;Machine+Learning+Enthusiast;AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=AI+Systems+Architect;Backend+Developer;" alt="Typing SVG" />
 </div>
 
 ### 👨‍💻 About Me
 
-Fresh Computer Science graduate passionate about transforming data into actionable insights. I specialize in data analysis and machine learning, with a keen interest in developing solutions that make a real-world impact. My approach combines technical expertise with analytical thinking to solve complex problems.
+I design and orchestrate secure agentic workflows and high-concurrency backend ecosystems. Specialized in building modular AI integrations via the Model Context Protocol (MCP) and optimizing Hybrid RAG pipelines for enterprise-grade performance.
 
 ### 🎓 Education
 
@@ -31,11 +31,11 @@ Fresh Computer Science graduate passionate about transforming data into actionab
 
 ### 💼 Current Work
 
-**Machine Learning Research Intern** at AGH University of Science and Technology
-- Developing algorithms that enhanced dataset quality for autonomous driving models
-- Optimizing Python scripts for data engineering processes
-- Contributing to research publications in Machine Learning
-- Reduced error rates by 20% and improved runtime efficiency by 30%
+**AI Systems Architect** at a Cybersecurity Startup
+- Architecting Agentic Workflows: Implementing modular AI tool integration using Model Context Protocol (MCP).
+- Security Infrastructure: Deploying enterprise Keycloak IAM and Zero-Trust RBAC policies for high-traffic workloads.
+- Intelligence Optimization: Refining Hybrid RAG pipelines and vector databases for high-precision security analysis.
+- System Impact: Improved operational efficiency by 12% and reduced data processing time by 20%.
 
 ### 🛠️ Skills
 
