@@ -39,27 +39,36 @@ I design and orchestrate secure agentic workflows and high-concurrency backend e
 
 ### 🛠️ Skills
 
-<p><strong>Architecture & Intelligence:</strong>
-  <img src="https://img.shields.io/badge/Agentic%20Workflows%20%28MCP%29-%230B5CAD.svg?style=flat-square" alt="Agentic Workflows (MCP)" />
-  <img src="https://img.shields.io/badge/Hybrid%20RAG-%230B5CAD.svg?style=flat-square" alt="Hybrid RAG" />
-  <img src="https://img.shields.io/badge/FastAPI-%230B5CAD.svg?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%230B5CAD.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-%230B5CAD.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Nginx-%230B5CAD.svg?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/ML%20Modeling%20%28TensorFlow%29-%230B5CAD.svg?style=flat-square&logo=tensorflow&logoColor=white" alt="ML Modeling (TensorFlow)" />
-</p>
-
-<p><strong>Analytics Engineering:</strong>
-  <img src="https://img.shields.io/badge/Data%20Lifecycle%20Management%20%28NumPy%2FPandas%29-%231D7A85.svg?style=flat-square&logo=pandas&logoColor=white" alt="Data Lifecycle Management (NumPy/Pandas)" />
-  <img src="https://img.shields.io/badge/ML%20Research-%231D7A85.svg?style=flat-square" alt="ML Research" />
-  <img src="https://img.shields.io/badge/BI%20Visualization%20%28Tableau%29-%231D7A85.svg?style=flat-square&logo=tableau&logoColor=white" alt="BI Visualization (Tableau)" />
-</p>
-
-<p><strong>Soft Skills:</strong>
-  <img src="https://img.shields.io/badge/Complex%20Problem%20Solving-%233C5A78.svg?style=flat-square" alt="Complex Problem Solving" />
-  <img src="https://img.shields.io/badge/Secure%20System%20Design-%233C5A78.svg?style=flat-square" alt="Secure System Design" />
-  <img src="https://img.shields.io/badge/Cross%2Dfunctional%20Collaboration-%233C5A78.svg?style=flat-square" alt="Cross-functional Collaboration" />
-</p>
+<table>
+  <tr>
+    <td valign="middle"><strong>Architecture & Intelligence:</strong></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Agentic%20Workflows%20%28MCP%29-%230B5CAD.svg?style=flat-square" alt="Agentic Workflows (MCP)" />
+      <img src="https://img.shields.io/badge/Hybrid%20RAG-%230B5CAD.svg?style=flat-square" alt="Hybrid RAG" />
+      <img src="https://img.shields.io/badge/FastAPI-%230B5CAD.svg?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/PostgreSQL-%230B5CAD.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Redis-%230B5CAD.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/Nginx-%230B5CAD.svg?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+      <img src="https://img.shields.io/badge/ML%20Modeling%20%28TensorFlow%29-%230B5CAD.svg?style=flat-square&logo=tensorflow&logoColor=white" alt="ML Modeling (TensorFlow)" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><strong>Analytics Engineering:</strong></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Data%20Lifecycle%20Management%20%28NumPy%2FPandas%29-%231D7A85.svg?style=flat-square&logo=pandas&logoColor=white" alt="Data Lifecycle Management (NumPy/Pandas)" />
+      <img src="https://img.shields.io/badge/ML%20Research-%231D7A85.svg?style=flat-square" alt="ML Research" />
+      <img src="https://img.shields.io/badge/BI%20Visualization%20%28Tableau%29-%231D7A85.svg?style=flat-square&logo=tableau&logoColor=white" alt="BI Visualization (Tableau)" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><strong>Soft Skills:</strong></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Complex%20Problem%20Solving-%233C5A78.svg?style=flat-square" alt="Complex Problem Solving" />
+      <img src="https://img.shields.io/badge/Secure%20System%20Design-%233C5A78.svg?style=flat-square" alt="Secure System Design" />
+      <img src="https://img.shields.io/badge/Cross%20Functional%20Collaboration-%233C5A78.svg?style=flat-square" alt="Cross-functional Collaboration" />
+    </td>
+  </tr>
+</table>
 
 ### 📫 Contact Me
 
